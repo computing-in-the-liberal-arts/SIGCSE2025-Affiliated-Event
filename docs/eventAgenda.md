@@ -1,9 +1,12 @@
 # Innovations and Opportunities<br>in Liberal Arts Computing Education
 
-An affiliated event at [SIGCSE 2024](https://sigcse2024.sigcse.org) organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges. This event will let us share and learn about curricular innovations, challenges, and opportunities particular to our liberal arts settings.
+An affiliated event at [SIGCSE 2025](https://sigcse2025.sigcse.org) organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges. This event will let us share and learn about curricular innovations, challenges, and opportunities particular to our liberal arts settings.
 
 ## Event Agenda
 
+TBD
+
+<!--
 - Wednesday, March 20th, 2023, 9:00am - 5:00pm
 - Oregon Convention Center
 - Rooms B115-116
@@ -63,6 +66,8 @@ Event organizers will collect links to content created in each session and add t
     - Session participants will work in small groups with facilitators to work collaboratively with the first four steps of the process workbook: *Articulating Your Identity*, *Stating Your Design Principles*, *Articulating Program-Level Learning Outcomes*, and *Interpreting and Adapting CS2023*. Sample content will illustrate results from more extensive engagement with the workbook. Workbook materials will be shared online, and participants can take the results of their work back to their home institutions for discussion or continued work.
 
   **Debrief and Open Discussion** (4:30 PM - 5:00 PM)
+
+-->
 
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
