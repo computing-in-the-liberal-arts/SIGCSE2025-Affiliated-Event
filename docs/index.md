@@ -12,7 +12,7 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 ## Event Information
 
 - Registration Link TBA
-  - This event will be held in person. Attendees must register for the SIGCSE Technical Symposium and using the link above. There is no additional fee for this event.
+  - This event will be held in person. Attendees must register for the SIGCSE Technical Symposium and register for the pre-conference event as part of that.
 
 - [Detailed Event Agenda](eventAgenda.md)
     - The detailed agenda is TBD.
@@ -29,9 +29,9 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 
 | Category                           | Date|
 |------------------------------------|-----------------------|
-| Submissions Due                    | TBD |
-| Notifications                      | TBD |
-| In-Person Event at SIGCSE          | TBD|
+| Submissions Due                    | January 14th, 2025 |
+| Notifications                      | January 28th, 2025 |
+| In-Person Event at SIGCSE          | February 26th, 2025 |
 
 ## Organizers
 
@@ -44,10 +44,12 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - Jakob Barnard, University of Jamestown
 - Grant Braught, Dickinson College
 - Janet Davis, Whitman College
+- Matthew Ferland, Dickinson College
+- Olive Franzese, Northwestern University
 - Amanda Holland-Minkley, Washington & Jefferson College
-- Karl Schmitt, Trinity College
+- Karl Schmitt, Trinity Christian College
 - Andrea Tartaro, Furman University
-- Jim Teresco, Siena College
+- James Teresco, Siena College
 
 ## Sponsors
 
