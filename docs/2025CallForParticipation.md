@@ -57,15 +57,15 @@ This is a[ ](https://sigcse2024.sigcse.org/)[SIGCSE 2025](https://sigcse2025.sig
   1. **Morning Session (Pick one template):**
      - **Curricular Innovation Submissions:** A brief (1 to 2-page) description of a curricular innovation that reflects a specifically liberal arts philosophy. This may include full curriculum models, individual courses, outreach programs, co-curricular programs, or other interdisciplinary or liberal-arts-focused educational initiatives. Please see the template below. 
      - Submission Templates: 
-       - Markdown:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/CurricularInnovationTemplate.html)https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/CurricularInnovationTemplate.md
-       - MS Word:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/CurricularInnovationTemplate.docx)https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/CurricularInnovationTemplate.docx 
+       - Markdown:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/CurricularInnovationTemplate.html)[https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/CurricularInnovationTemplate.md](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/CurricularInnovationTemplate.md)
+       - MS Word:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/CurricularInnovationTemplate.docx)[https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/CurricularInnovationTemplate.docx](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/CurricularInnovationTemplate.docx ) 
      - **Opportunities and Challenges Submissions:** A brief (1 to 2-page) exploration of an opportunity or challenge in computing education that is either unique to the liberal arts context or where the liberal arts context provides a usefully distinctive perspective. These need not be exhaustively researched explorations but submissions should illustrate how the presenter would be able to bring context or knowledge beyond first-hand, anecdotal experience to the conversation. 
      - Submission Templates:
-       - Markdown:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/OpportunitiesChallengesTemplate.html)https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitiesChallengesTemplate.md 
-       - MS Word:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/OpportunitesChallengesTemplate.docx)https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitesChallengesTemplate.docx
+       - Markdown:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/OpportunitiesChallengesTemplate.html)[https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitiesChallengesTemplate.md](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitiesChallengesTemplate.md ) 
+       - MS Word:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/OpportunitesChallengesTemplate.docx)[https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitesChallengesTemplate.docx](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitesChallengesTemplate.docx)
   2. **Afternoon Session - Unconference Submissions:** A brief (1 to 2-page) description of the topic proposed for discussion, intended format for the session, and desired outcomes or products. The Unconference session has been scheduled to run for three hours, with a half-hour break in the middle. Please see the template below.
-     - Markdown: COPY FROM 2022 EVENT (https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.md )
-     - MS Word: COPY FROM 2022 EVENT (https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.docx )
+     - Markdown:  [https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.md](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.md ) 
+     - MS Word: [https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.docx](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.docx ) 
 
   ## **Submission Process**
 
@@ -78,7 +78,7 @@ This is a[ ](https://sigcse2024.sigcse.org/)[SIGCSE 2025](https://sigcse2025.sig
   - **GitHub Pull Request**: If you are comfortable with git and GitHub, submissions may be made via GitHub pull requests.
     1. Fork the Computing in the Liberal Arts SICSE2025 Affiliated Event Repository.
 
-  https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/
+  [https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/)
 
   1. Create a branch for your submission.
   2. Add a sub-directory for your submission to the appropriate directory (*curricula*, or *opportunities*).

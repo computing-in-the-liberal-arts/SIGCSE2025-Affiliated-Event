@@ -11,19 +11,16 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 
 ## Event Information
 
-- Registration Link TBA
-  - This event will be held in person. Attendees must register for the SIGCSE Technical Symposium and register for the pre-conference event as part of that.
-
-- [Detailed Event Agenda](eventAgenda.md)
-    - The detailed agenda is TBD.
-
-- [Resulting Materials](materials.md)
-  - Submissions, presentations, and session notes from the event.
-
-- [SIGCSE 2025](https://sigcse2025.sigcse.org)
 - [Event Proposal](2025-event-proposal.pdf)
 - [Call for Participation](2025CallForParticipation.md)
     - Submissions are invited on effective innovations in liberal arts computing curricula and on explorations of unique opportunities or challenges faced by the liberal arts computing education community. Details about submissions requirements and process are available in the Call for Participation.
+- Registration Link TBA
+  - This event will be held in person. Attendees must register for the SIGCSE Technical Symposium and register for the pre-conference event as part of that.
+- [Detailed Event Agenda](eventAgenda.md)
+    - The detailed agenda is TBD.
+- [Resulting Materials](materials.md)
+  - Submissions, presentations, and session notes from the event.
+- [SIGCSE 2025](https://sigcse2025.sigcse.org)
 
 ## Important Dates
 
