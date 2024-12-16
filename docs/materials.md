@@ -4,7 +4,7 @@ This page contains links to materials from the [SIGCSE 2025 Affiliated event](ht
 
 ## Submitted Materials
 
-  * But *How* Do They Use It?: Scaffolding the Introduction of Generative AI Across the SLAC CS Curriculum, Carolyn Jane Anderson, Wellesley College and Molly Q. Feldman, Oberlin College (doc, pdf figure)
+  * Will be updated shortly before the session!
 
 
 ## Session Notes
