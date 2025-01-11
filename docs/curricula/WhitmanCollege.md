@@ -27,6 +27,7 @@ Whitman College is the first institution to design a computer science curriculum
 Existing curriculum (briefly! focus on describing characteristics, rationale, and challenges rather than listing courses)
 
 Summer workshop process and outcomes
+- Process: I'm guessing we don't want to spend much time re-iterating what is in the workbook, since we can reference that. So, important process details include the organization of the activities, facilitation techniques (with a heavy focus on collaborative deliberation and decision-making), toggling between collaborative discussions/working sessions and daily individual homework assignments
 - Outcomes: New deliberation and decision-making processes that we could carry forward to future curriculum design activities; program-level identity statement; draft program-level learning outcomes
 
 Fall working group process and outcomes
