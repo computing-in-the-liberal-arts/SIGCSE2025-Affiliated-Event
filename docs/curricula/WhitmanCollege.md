@@ -19,19 +19,34 @@ Contributed by
 
 ## Description of Curricular Innovation
 
-_Provide a narrative description of your innovation._
+Our innovation is in an innovation of _process_. 
+Whitman College is the first institution to design a computer science curriculum based on the 
+[Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/) under development by the 
+[SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/).
 
-_This may include full curriculum models, individual courses, outreach
-programs, co-curricular programs, or other interdisciplinary or liberal
-arts focused educational initiatives. Submissions describing innovations
-that leverage particular opportunities or challenges presented by the
-liberal arts context, show potential for adoption, or for broadening
-participation are encouraged._
+Existing curriculum (briefly! focus on describing characteristics, rationale, and challenges rather than listing courses)
+
+Summer workshop process and outcomes
+
+Fall working group process and outcomes
+
+Proposed new curriculum (in comparison to the existing curriculum?)
+
+Future work?
 
 ## Challenges/Limitations
 
-_Describe any challenges or limitations:_
-  - _you are facing in using or implementing your innovation._
-  - _that others would face in adopting your innovation._
+Whitman's curriculum was designed for Whitman: 
+our faculty, our student population, and our institutional context. 
+Rather than adopting our curriculum, we recommend using the process laid out in the Curricular Practices Workbook. 
 
-_Please limit your contribution to about two pages, or 700-1000 words._
+Our process benefited from two facilitators external to our department: 
+for the summer workshop, a Workbook co-author, 
+and for the fall working group, a Math colleague interested in curricular reform.
+This facilitation enabled all four members of the department to focus mainly on the content of our work, 
+and we do not think we would have been as efficient or successful without it.
+
+Notetheless, this curricular revision required a significant time investment:
+20 hours of summer workshop meetings, 10 hours of fall working group meetings, and about as many hours of individual work.
+
+**_Please limit your contribution to about two pages, or 700-1000 words._**
