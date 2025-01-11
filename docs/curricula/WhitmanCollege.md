@@ -9,10 +9,10 @@ Contributed by
 
 ## Institutional and Departmental Context
 - Location: Walla Walla, WA
-- Undergraduate student body size:  students
+- Undergraduate student body size: ~1500 students
 - Degree(s) offered: BA
 - Department/major name: Computer Science
-- Number of contributing faculty: 5.5 FTE
+- Number of contributing faculty: ~5 FTE
 - Number of majors annually: 15-20 majors
 - Does the department offer any graduate programs? No
 - Other context: Whitman's computer science major is less than ten years old, first appearing in the catalog for the 2017-18 academic year.
