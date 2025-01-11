@@ -1,4 +1,3 @@
-```
 # _Re-envisioning the Computer Science Major at Whitman College_
 
 ## _Whitman College_
@@ -36,4 +35,3 @@ _Please limit your contribution to about two pages, or 700-1000 words._
 _Describe any challenges or limitations:_
   - _you are facing in using or implementing your innovation._
   - _that others would face in adopting your innovation._
-```
