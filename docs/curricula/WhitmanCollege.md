@@ -26,7 +26,7 @@ Whitman College is the first institution to design a computer science curriculum
 
 Existing curriculum (briefly! focus on describing characteristics, rationale, and challenges rather than listing courses)
 
-Whitman's current CS program was designed as the inaugural Computer Science major the mid 2010's. 
+Whitman's current CS program was designed for the inaugural Computer Science major in the mid 2010's. 
 The department needed to demonstrate to various constituencies that Whitman's fledgeling program would be 
 "rigorous" and cover the "foundations" of the discipline, yet be covered by only three full-time 
 faculty on a 3-2 teaching load. 
