@@ -53,7 +53,7 @@ Summer workshop process and outcomes
 - JAS: I think there's more we might need to say to cover this. I didn't spend a lot of time on the workbook, but an outline seemed worthwhile.
 
 During the workshop itself, guided by the workbook and our facilitator, we 
-developed our goals for our new curriculum in a few steps over several days of discussion:
+developed our goals for our new curriculum in a few steps over several days of advance readings, individual homework, and discussion:
 0. Establish ground rules for collaboration, discussion, and decision making
 1. Articulate an aspirational identity statement for our program
 2. Document design principles to be used in crafting a program according to our stated values
