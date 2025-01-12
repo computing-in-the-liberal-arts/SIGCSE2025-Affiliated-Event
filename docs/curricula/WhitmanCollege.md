@@ -103,6 +103,7 @@ of our current curriculum for already declared majors.
 Whitman's curriculum was designed for Whitman: 
 our faculty, our student population, and our institutional context. 
 Rather than adopting our curriculum, we recommend using the process laid out in the Curricular Practices Workbook. 
+We believe that the added space for electives better deals with balancing ACM topic coverage with the expertise of our approximately 5 FTE faculty, allows for further program growth, and student freedom to explore and engage with the liberal arts and interdisciplinary programs.
 
 Our process benefited from two facilitators external to our department: 
 for the summer workshop, a Workbook co-author, 
