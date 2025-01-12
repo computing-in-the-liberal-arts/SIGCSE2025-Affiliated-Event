@@ -54,7 +54,7 @@ Summer workshop process and outcomes
 
 During the workshop itself, guided by the workbook and our facilitator, we 
 developed our goals for our new curriculum in a few steps over several days of discussion:
-0. Establish ground rules for collaboration and discussion
+0. Establish ground rules for collaboration, discussion, and decision making
 1. Articulate an aspirational identity statement for our program
 2. Document design principles to be used in crafting a program according to our stated values
 3. Draft program-level learning outcomes
