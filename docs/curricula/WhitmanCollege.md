@@ -66,7 +66,7 @@ to align it with our program's vision within our program's constraints.
 At the end of the workshop, we identified several key goals that would require curricular revision to achieve, such as:
 * Broaden entry points into the major, points of engagement for nonmajors, and opportunities for in-class discussion of social and ethical topics by redesigning some core courses to require _no_ prerequisites.
 * Reduce the number of specifically required courses and enable more opportunity for student choice in electives.
-* Intentionally develop students' abilities to acquire skills progressively more independently to better prepare them for capstone and lifelong learning after graduation.
+* Intentionally develop students' abilities to acquire skills progressively and more independently to better prepare them for capstone and lifelong learning after graduation.
 
 During the fall semester, we met roughly weekly to work through the details of a revised curriculum, 
 equipped with our notes from the workshop and the continued support of an interested faculty member 
