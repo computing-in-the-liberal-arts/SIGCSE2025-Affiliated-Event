@@ -15,23 +15,15 @@ Contributed by
 - Number of contributing faculty: ~5 FTE
 - Number of majors annually: 15-20 majors
 - Does the department offer any graduate programs? No
-- Other context: Whitman's computer science major is less than ten years old, first appearing in the catalog for the 2017-18 academic year.
+- Other context: Whitman's computer science major is less than ten years old, first appearing in the catalog for the 2017-18 academic year. The existing curriculum was designed to emphasize CS as a rigorous and distinct academic discipline and to be taught by only three full-time faculty on a 3-2 teaching load.
 
 ## Description of Curricular Innovation
 
-Our innovation is in an innovation of _process_. 
-Whitman College is the first institution to design a computer science curriculum based on the 
+Our innovation is in an innovation of _process_. Whitman College is the first institution to design a computer science curriculum based on the 
 [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/) under development by the 
 [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/).
 
-Whitman's current CS program was designed for the inaugural Computer Science major in the mid-2010's. 
-The CS faculty needed to demonstrate that Whitman's fledgling program represented a rigorous academic discipline,
-but at the same time needed to design a curriculum to be taught by only three full-time faculty on a 3-2 teaching load. 
-As such, our curriculum requirements were composed of 10 specifically required courses, adhering closely to the 
-Core Tier-1 and Tier-2 ACM 2013 curricular guidelines, and one elective. 
-By the early 2020's, that curriculum felt constraining for both faculty and students.
-
-We planned our curricular revision around a week-long workshop in the summer of 2024, 
+Whitman's current CS program was designed for the inaugural Computer Science major in the mid-2010's, and by the early 2020' it was clear that both the faculty and staff had outgrown the existing curriculum. We planned our curricular revision around a week-long workshop in the summer of 2024, 
 supported by an internal institutional grant for pedagogical development and facilitated 
 by Andrea Tartaro, a co-author of the [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/).
 A core premise of the Workbook is that curriculum design should be closely 
@@ -75,18 +67,8 @@ These meetings roughly followed the following process, going beyond the content 
 4. Synthesis of new major requirements, including reevaluation of alignment to program vision, learning outcomes, and design principles from the summer workshop;
 5. Development of a curriculum transition plan along with formal course and program proposals.
 
-Our resulting curriculum includes many substantial changes. 
-The number of directly required courses has decreased to 7, making room to require multiple 
-major elective courses within our institution's limits on credits required for a major. 
-An eighth course requirement offers a selection to encourage students to venture more deeply 
-into a core area of computer science (systems, theory, or design) that could facilitate 
-undergraduate research or graduate school opportunities.
-No required course (including capstone) has a prerequite chain of more than two courses, 
-enabling students to discover the program as late as their second year and still 
-graduate within eight semesters.
-The major will also require new 100-level courses in discrete mathematics and computer systems, 
-which we are developing with no prerequisites to enable multiple opportunities for majors and non-majors 
-alike to engage with foundational concepts and perspectives offered by our discipline. 
+Our resulting curriculum includes substantial changes, including reducing the number of directly required courses from 10 to 7, encouraging students to venture more deeply 
+into a core area of computer science (systems, theory, or design), and offering new 100-level courses in discrete mathematics and computer systems.
 
 At time of writing, our proposals are moving through institutional approval processes.
 We still need to document our further reflections on our use of the Curricular Practices Workbook and
