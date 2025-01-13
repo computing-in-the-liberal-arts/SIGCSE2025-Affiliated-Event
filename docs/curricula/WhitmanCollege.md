@@ -46,7 +46,7 @@ Our discussions focused on these seven steps:
 5. Reflect on our current program to identify areas of alignment and misalignment to our developing program vision.
 6. Ideate curriculum innovations that could address new program goals and vision.
    
-Step 0 was not part of the Workbook but required by our administration as a condition of funding an external facilitator. 
+Step 0 was not part of the Workbook but required by our administration as a condition of funding an external facilitator. Yet we found this step to be crucial, and in fact have adopted processes established during the workshop into ongoing departmental decision-making.
 
 Each CS faculty member had an separate copy of the workbook that we used to do each activity individually, allowing us to develop and articulate ideas on our own to avoid groupthink. We then synthesized our individual responses into a shared department workbook, engaging in a process of synthesis and deliberation through co-writing and co-editing. Additionally, we participated in several group activities such as brainstorming design contraints on sticky notes and clustering them into themes which we prioritized.
 
