@@ -36,7 +36,7 @@ We also mapped our current current curriculum according to the Knowledge Areas o
 
 During the workshop itself, guided by the Workbook and our facilitator, we 
 developed our goals for our new curriculum in a few steps over several days of advance readings, individual homework, and discussion.
-Our discussions focused on these six steps:
+Our discussions focused on these seven steps:
 
 0. Establish ground rules for collaboration, discussion, and decision making;
 1. Articulate an aspirational identity statement for our program;
@@ -44,10 +44,13 @@ Our discussions focused on these six steps:
 3. Draft program-level learning outcomes;
 4. Map our learning outcomes to the [CS 2023](https://csed.acm.org/cs2023-report-with-feedback/) Knowledge Areas and identify program "Competency Areas";
 5. Reflect on our current program to identify areas of alignment and misalignment to our developing program vision.
+6. Ideate curriculum innovations that could address new program goals and vision.
    
 Step 0 was not part of the Workbook but required by our administration as a condition of funding an external facilitator. 
 
-Each CS faculty member had an separate copy of the workbook that they used to do each activity individually. After each activity, we then synthesized our individual responses into a shared department workbook, engaging in a process of synthesis and deliberation through co-writing and co-editing. By the end of the workshop, we had identified several key goals that would require curricular revision to achieve, such as:
+Each CS faculty member had an separate copy of the workbook that we used to do each activity individually, allowing us to develop and articulate ideas on our own to avoid groupthink. We then synthesized our individual responses into a shared department workbook, engaging in a process of synthesis and deliberation through co-writing and co-editing. Additionally, we participated in several group activities such as brainstorming design contraints on sticky notes and clustering them into themes which we prioritized.
+
+By the end of the workshop, we had identified several key goals that would require curricular revision to achieve, such as:
 
 * Redesign some core courses to require _no_ prerequisites in order to broaden entry points into the major, and increase points of engagement for nonmajors and opportunities for in-class discussions of social and ethical topics.
 * Reduce the number of required courses to enable more opportunity for student choice in electives.
@@ -55,18 +58,16 @@ Each CS faculty member had an separate copy of the workbook that they used to do
 
 During the fall semester, we met roughly weekly to work through the details of a revised curriculum, 
 equipped with our notes from the workshop and the continued support of an interested faculty member 
-from Whitman's Mathematics and Statistics Department as our new facilitator. 
+from Whitman's Mathematics and Statistics Department as our new extra-department facilitator. Going beyond the content of the [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/), these meetings roughly followed this process:
 
-These meetings roughly followed the following process, going beyond the content of the [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/):
-
-1. Presentations of individually imagined curricula capturing various ideas for how we might carry out our program vision;
+1. Presentations of individually imagined curricula to capture and expand on various ideas for how we might carry out our program vision;
 2. Identification of common themes and specific new courses for further development;
 3. Discussion of new and revised courses and their mapping to the CS2023 Knowledge Areas;
 4. Synthesis of new major requirements, including reevaluation of alignment to program vision, learning outcomes, and design principles from the summer workshop;
 5. Development of a curriculum transition plan along with formal course and program proposals.
 
 Our resulting curriculum includes substantial changes, including reducing the number of directly required courses from 10 to 7, encouraging students to venture more deeply 
-into a core area of computer science (systems, theory, or design), and offering new 100-level courses in discrete mathematics and computer systems & society.
+into a core area of computer science (systems, theory, or design), and offering new 100-level courses in discrete mathematics and computer systems & society. We believe that the added space for electives better deals with balancing ACM topic coverage with the expertise of our approximately 5 FTE faculty, allows for further program growth, and student freedom to explore and engage with the liberal arts and interdisciplinary programs.
 
 At time of writing, our proposals are moving through institutional approval processes.
 We still need to document our further reflections on our use of the Curricular Practices Workbook and
@@ -80,13 +81,13 @@ of our current curriculum for currently declared majors.
 Whitman's curriculum was designed for Whitman: 
 our faculty, our student population, and our institutional context. 
 Rather than adopting our curriculum, we recommend using the process laid out in the [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/). 
-We believe that the added space for electives better deals with balancing ACM topic coverage with the expertise of our approximately 5 FTE faculty, allows for further program growth, and student freedom to explore and engage with the liberal arts and interdisciplinary programs.
 
 Our process benefited from two facilitators external to our department: 
 for the summer workshop, a Workbook co-author, 
 and for the fall working group, a Math colleague interested in curricular reform.
 We initially wanted an external facilitator so that faculty members could focus on the curriculum redesign activities rather than the mechanics of facilitation. Ultimately, we found that  having an outside perspective mitigated mitigated the dynamics of seniority and  catalyzed us to explain---and thus reconsider---our existing department norms. 
-The curricular revision process still required a significant time investment from each of us:
+
+The curricular revision process required a significant time investment from each of us:
 20 hours of summer workshop meetings, 10 hours of fall working group meetings, and about as many hours of individual work.
 
 We hesitated to make weighty decisions about our curriculum while one of our tenure lines remains unfilled.
