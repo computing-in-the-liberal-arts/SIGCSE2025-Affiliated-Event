@@ -23,7 +23,7 @@ Our innovation is in an innovation of _process_. Whitman College is the first in
 [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/) under development by the 
 [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/). We demonstrate one possible method for embedding this workbook within a collaborative, iterative process that emphasizes deliberation and shared decision-making.
 
-Whitman's current CS program was designed for the inaugural Computer Science major in the mid-2010's, and by the early 2020' it was clear that both the faculty and staff had outgrown the existing curriculum. We planned our curricular revision around a week-long workshop in the summer of 2024, 
+Whitman's current CS program was designed for the inaugural Computer Science major in the mid-2010's, and by the early 2020's it was clear that both the faculty and staff had outgrown the existing curriculum. We planned our curricular revision around a week-long workshop in the summer of 2024, 
 supported by an internal institutional grant for pedagogical development and facilitated 
 by Andrea Tartaro, a co-author of the [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/). 
 A core premise of the Workbook is that curriculum design should be closely 
