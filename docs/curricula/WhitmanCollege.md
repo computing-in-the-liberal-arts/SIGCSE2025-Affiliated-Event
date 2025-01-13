@@ -29,7 +29,7 @@ The CS faculty needed to demonstrate that Whitman's fledgling program represente
 but at the same time needed to design a curriculum to be taught by only three full-time faculty on a 3-2 teaching load. 
 As such, our curriculum requirements were composed of 10 specifically required courses, adhering closely to the 
 Core Tier-1 and Tier-2 ACM 2013 curricular guidelines, and one elective. 
-By the early 2020's, that curriculum felt increasingly constrained to both faculty and students.
+By the early 2020's, that curriculum felt constraining for both faculty and students.
 
 We planned our curricular revision around a week-long workshop in the summer of 2024, 
 supported by an internal institutional grant for pedagogical development and facilitated 
@@ -59,9 +59,9 @@ to align it with our program's vision within our program's constraints.
 
 By the end of the workshop, we had identified several key goals that would require curricular revision to achieve, such as:
 
-* Broaden entry points into the major, points of engagement for nonmajors, and opportunities for in-class discussion of social and ethical topics by redesigning some core courses to require _no_ prerequisites.
-* Reduce the number of specifically required courses and enable more opportunity for student choice in electives.
-* Intentionally develop students' abilities to acquire skills progressively and more independently to better prepare them for capstone and lifelong learning after graduation.
+* Redesign some core courses to require _no_ prerequisites in order to broaden entry points into the major, and increase points of engagement for nonmajors and opportunities for in-class discussions of social and ethical topics.
+* Reduce the number of required courses to enable more opportunity for student choice in electives.
+* Intentionally develop students' abilities to acquire skills progressively and independently to prepare them for capstone and lifelong learning after graduation.
 
 During the fall semester, we met roughly weekly to work through the details of a revised curriculum, 
 equipped with our notes from the workshop and the continued support of an interested faculty member 
@@ -88,7 +88,7 @@ The major will also require new 100-level courses in discrete mathematics and co
 which we are developing with no prerequisites to enable multiple opportunities for majors and non-majors 
 alike to engage with foundational concepts and perspectives offered by our discipline. 
 
-At time of writing, our proposals are working their way through institutional approval processes.
+At time of writing, our proposals are moving through institutional approval processes.
 We still need to document our further reflections on our use of the Curricular Practices Workbook and
 establish methods of assessment for our new program learning outcomes.
 Our curricular changes will be incrementally rolled out over the next several years, 
