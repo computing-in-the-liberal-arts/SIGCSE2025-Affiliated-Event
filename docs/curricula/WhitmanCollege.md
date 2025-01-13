@@ -23,7 +23,9 @@ Our innovation is in an innovation of _process_. Whitman College is the first in
 [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/) under development by the 
 [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/). We demonstrate one possible method for embedding this workbook within a collaborative, iterative process that emphasizes deliberation and shared decision-making.
 
-Whitman's current CS program was designed for the inaugural Computer Science major in the mid-2010's, and by the early 2020's it was clear that both the faculty and staff had outgrown the existing curriculum. We planned our curricular revision around a week-long workshop in the summer of 2024, 
+Whitman's current CS program was designed for the inaugural Computer Science major in the mid-2010's, and by the early 2020's it was clear that both the faculty and the students had outgrown the existing curriculum. 
+
+We planned our curricular revision around a week-long workshop in the summer of 2024, 
 supported by an internal institutional grant for pedagogical development and facilitated 
 by Andrea Tartaro, a co-author of the [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/). 
 A core premise of the Workbook is that curriculum design should be closely 
@@ -34,21 +36,21 @@ of senior exit interviews, and individual reflections on our aspirations for the
 educational experiences and outcomes we wanted for our students.
 We also mapped our current current curriculum according to the Knowledge Areas of the [ACM 2023 Curricular Guidelines (CS2023)](https://csed.acm.org/cs2023-report-with-feedback/).
 
-During the workshop itself, guided by the Workbook and our facilitator, we 
-developed our goals for our new curriculum in a few steps over several days of advance readings, individual homework, and discussion.
-Our discussions focused on these seven steps:
+During the workshop itself, we developed our goals for our new curriculum in a few steps over several days of 
+advance readings, individual homework, and discussion.
+Guided by the Workbook and our facilitator, our discussions focused on these seven steps:
 
-0. Establish ground rules for collaboration, discussion, and decision making;
-1. Articulate an aspirational identity statement for our program;
-2. Document design principles to be used in crafting a program according to our stated values;
-3. Draft program-level learning outcomes;
-4. Map our learning outcomes to the [CS 2023](https://csed.acm.org/cs2023-report-with-feedback/) Knowledge Areas and identify program "Competency Areas";
-5. Reflect on our current program to identify areas of alignment and misalignment to our developing program vision;
-6. Ideate curriculum innovations that could address new program vision.
+0. We established ground rules for collaboration, discussion, and decision making;
+1. We articulated an aspirational identity statement for our program;
+2. We documented design principles to be used in crafting a program according to our stated values;
+3. We drafted program-level learning outcomes;
+4. We mapped our learning outcomes to the [CS 2023](https://csed.acm.org/cs2023-report-with-feedback/) Knowledge Areas and identified program "Competency Areas";
+5. We reflected on our current program to identify areas of alignment and misalignment to our developing program vision;
+6. We ideated curricular innovations that could address new program vision.
    
-Step 0 was not part of the Workbook but required by our administration as a condition of funding an external facilitator. Yet we found this step to be crucial, and in fact have adopted processes established during the workshop into ongoing departmental decision-making.
+Step 0 was not part of the Workbook but required by our administration as a condition of funding an external facilitator. Yet we found this step to be crucial, and in fact have adopted processes established during the workshop into ongoing departmental decision-making, for example [fist-to-five consensus-building](https://web.archive.org/web/20150219150200/http://www.freechild.org/Firestarter/Fist2Five.htm).
 
-Each CS faculty member had an separate copy of the workbook that we used to do each activity individually, allowing us to develop and articulate ideas on our own. We then synthesized our individual responses into a shared department workbook, engaging in a process of synthesis and deliberation through co-writing and co-editing. Additionally, we participated in several collaborative design activities, for example: brainstorming structural contraints on sticky notes and clustering them into themes, which we then prioritized into a set of design principles.
+Each CS faculty member had an separate copy of the workbook that we used to do each activity individually, allowing us to develop and articulate ideas on our own. We then synthesized our individual responses into a shared department workbook, engaging in a process of  deliberation and negotiation through co-writing and co-editing. Additionally, we participated in several collaborative design activities, for example, brainstorming structural contraints on sticky notes and clustering them into themes, which we then prioritized into a set of design principles.
 
 By the end of the workshop, we had identified several key goals that would require curricular revision to achieve, such as:
 
@@ -58,16 +60,19 @@ By the end of the workshop, we had identified several key goals that would requi
 
 During the fall semester, we met roughly weekly to work through the details of a revised curriculum, 
 equipped with our notes from the workshop and the continued support of an interested faculty member 
-from Whitman's Mathematics and Statistics Department as our new extra-department facilitator. Going beyond the content of the [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/), these meetings roughly followed this process:
+from Whitman's Mathematics and Statistics Department as our new extra-departmental facilitator. 
+Going beyond the content of the [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/), 
+the following process emerged:
 
-1. Presentations of individually imagined curricula to capture and expand on various ideas for how we might carry out our program vision;
-2. Identification of common themes and specific new courses for further development;
-3. Discussion of new and revised courses and their mapping to the CS2023 Knowledge Areas;
-4. Synthesis of new major requirements, including reevaluation of alignment to program vision, learning outcomes, and design principles from the summer workshop;
-5. Development of a curriculum transition plan along with formal course and program proposals.
+1. We presented individually imagined curricula to capture and expand on various ideas for how we might carry out our program vision;
+2. We identified common themes and specific new courses for further development;
+3. We discussed new and revised courses and their mapping to the CS2023 Knowledge Areas;
+4. We synthesized new major requirements, including reevaluation of alignment to program vision, learning outcomes, and design principles from the summer workshop;
+5. We developed a curriculum transition plan along with formal course and program proposals.
 
 Our resulting curriculum includes substantial changes, including reducing the number of directly required courses from 10 to 7, encouraging students to venture more deeply 
-into a core area of computer science (systems, theory, or design), and offering new 100-level courses in discrete mathematics and computer systems & society. We believe that the added space for electives better deals with balancing ACM topic coverage with the expertise of our approximately 5 FTE faculty, allows for further program growth, and student freedom to explore and engage with the liberal arts and interdisciplinary programs.
+into a core area of computer science (systems, theory, or design), and offering new 100-level courses in discrete mathematics and computer systems & society. 
+We believe that the added space for electives better deals with balancing ACM topic coverage with the expertise of our approximately 5 FTE faculty, allows for further program growth, and student freedom to explore and engage with the liberal arts and interdisciplinary programs.
 
 At time of writing, our proposals are moving through institutional approval processes.
 We still need to document our further reflections on our use of the Curricular Practices Workbook and
@@ -92,7 +97,7 @@ The curricular revision process required a significant time investment from each
 
 We hesitated to make weighty decisions about our curriculum while one of our tenure lines remains unfilled.
 However, we believe that our revised curriculum will let all current faculty contribute to most (if not all) required courses,
-while also making more space for each of us to contribute unique elective offerings.
+while also making more space for each of us to contribute our unique expertise.
 We are hopeful that our revised curriculum will accommate new colleagues with minimal adaptations.
 
 **_Please limit your contribution to about two pages, or 700-1000 words._**
