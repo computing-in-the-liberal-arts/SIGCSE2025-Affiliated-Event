@@ -21,11 +21,11 @@ Contributed by
 
 Our innovation is in an innovation of _process_. Whitman College is the first institution to design a computer science curriculum based on the 
 [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/) under development by the 
-[SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/).
+[SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/). We demonstrate one possible method for embedding this workbook within a collaborative, iterative process that emphasizes deliberation and shared decision-making.
 
 Whitman's current CS program was designed for the inaugural Computer Science major in the mid-2010's, and by the early 2020' it was clear that both the faculty and staff had outgrown the existing curriculum. We planned our curricular revision around a week-long workshop in the summer of 2024, 
 supported by an internal institutional grant for pedagogical development and facilitated 
-by Andrea Tartaro, a co-author of the [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/).
+by Andrea Tartaro, a co-author of the [Curricular Practices Workbook](https://computing-in-the-liberal-arts.github.io/CS2023/). 
 A core premise of the Workbook is that curriculum design should be closely 
 informed by institutional values, mission, and identity. 
 Before the workshop, we collected various resources that captured that institutional 
@@ -45,11 +45,9 @@ Our discussions focused on these six steps:
 4. Map our learning outcomes to the [CS 2023](https://csed.acm.org/cs2023-report-with-feedback/) Knowledge Areas and identify program "Competency Areas";
 5. Reflect on our current program to identify areas of alignment and misalignment to our developing program vision.
    
-Step 0 was not part of the Workbook but required by our administration as a condition of funding an external facilitator.
-These steps took the full week, leaving us with areas of revision to work on to develop changes to our curriculum 
-to align it with our program's vision within our program's constraints.
+Step 0 was not part of the Workbook but required by our administration as a condition of funding an external facilitator. 
 
-By the end of the workshop, we had identified several key goals that would require curricular revision to achieve, such as:
+Each CS faculty member had an separate copy of the workbook that they used to do each activity individually. After each activity, we then synthesized our individual responses into a shared department workbook, engaging in a process of synthesis and deliberation through co-writing and co-editing. By the end of the workshop, we had identified several key goals that would require curricular revision to achieve, such as:
 
 * Redesign some core courses to require _no_ prerequisites in order to broaden entry points into the major, and increase points of engagement for nonmajors and opportunities for in-class discussions of social and ethical topics.
 * Reduce the number of required courses to enable more opportunity for student choice in electives.
@@ -68,7 +66,7 @@ These meetings roughly followed the following process, going beyond the content 
 5. Development of a curriculum transition plan along with formal course and program proposals.
 
 Our resulting curriculum includes substantial changes, including reducing the number of directly required courses from 10 to 7, encouraging students to venture more deeply 
-into a core area of computer science (systems, theory, or design), and offering new 100-level courses in discrete mathematics and computer systems.
+into a core area of computer science (systems, theory, or design), and offering new 100-level courses in discrete mathematics and computer systems & society.
 
 At time of writing, our proposals are moving through institutional approval processes.
 We still need to document our further reflections on our use of the Curricular Practices Workbook and
@@ -87,8 +85,7 @@ We believe that the added space for electives better deals with balancing ACM to
 Our process benefited from two facilitators external to our department: 
 for the summer workshop, a Workbook co-author, 
 and for the fall working group, a Math colleague interested in curricular reform.
-External facilitation enabled all four members of the department to focus mainly on the content of our work, 
-and we do not think we would have been as efficient or successful without it.
+We initially wanted an external facilitator so that faculty members could focus on the curriculum redesign activities rather than the mechanics of facilitation. Ultimately, we found that  having an outside perspective mitigated mitigated the dynamics of seniority and  catalyzed us to explain---and thus reconsider---our existing department norms. 
 The curricular revision process still required a significant time investment from each of us:
 20 hours of summer workshop meetings, 10 hours of fall working group meetings, and about as many hours of individual work.
 
