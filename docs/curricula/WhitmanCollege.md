@@ -111,7 +111,7 @@ and for the fall working group, a Math colleague interested in curricular reform
 This facilitation enabled all four members of the department to focus mainly on the content of our work, 
 and we do not think we would have been as efficient or successful without it.
 
-Notetheless, this curricular revision required a significant time investment:
+Notetheless, this curricular revision required a significant time investment from each of us:
 20 hours of summer workshop meetings, 10 hours of fall working group meetings, and about as many hours of individual work.
 
 **_Please limit your contribution to about two pages, or 700-1000 words._**
