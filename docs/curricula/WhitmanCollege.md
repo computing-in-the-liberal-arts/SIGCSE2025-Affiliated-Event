@@ -105,10 +105,9 @@ We believe that the added space for electives better deals with balancing ACM to
 Our process benefited from two facilitators external to our department: 
 for the summer workshop, a Workbook co-author, 
 and for the fall working group, a Math colleague interested in curricular reform.
-This facilitation enabled all four members of the department to focus mainly on the content of our work, 
+External facilitation enabled all four members of the department to focus mainly on the content of our work, 
 and we do not think we would have been as efficient or successful without it.
-
-Notetheless, this curricular revision required a significant time investment from each of us:
+The curricular revision process still required a significant time investment from each of us:
 20 hours of summer workshop meetings, 10 hours of fall working group meetings, and about as many hours of individual work.
 
 We hesitated to make weighty decisions about our curriculum while one of our tenure lines remains unfilled.
