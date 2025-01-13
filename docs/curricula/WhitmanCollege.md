@@ -43,8 +43,8 @@ Our discussions focused on these seven steps:
 2. Document design principles to be used in crafting a program according to our stated values;
 3. Draft program-level learning outcomes;
 4. Map our learning outcomes to the [CS 2023](https://csed.acm.org/cs2023-report-with-feedback/) Knowledge Areas and identify program "Competency Areas";
-5. Reflect on our current program to identify areas of alignment and misalignment to our developing program vision.
-6. Ideate curriculum innovations that could address new program goals and vision.
+5. Reflect on our current program to identify areas of alignment and misalignment to our developing program vision;
+6. Ideate curriculum innovations that could address new program vision.
    
 Step 0 was not part of the Workbook but required by our administration as a condition of funding an external facilitator. Yet we found this step to be crucial, and in fact have adopted processes established during the workshop into ongoing departmental decision-making.
 
