@@ -48,7 +48,7 @@ Our discussions focused on these seven steps:
    
 Step 0 was not part of the Workbook but required by our administration as a condition of funding an external facilitator. Yet we found this step to be crucial, and in fact have adopted processes established during the workshop into ongoing departmental decision-making.
 
-Each CS faculty member had an separate copy of the workbook that we used to do each activity individually, allowing us to develop and articulate ideas on our own. We then synthesized our individual responses into a shared department workbook, engaging in a process of synthesis and deliberation through co-writing and co-editing. Additionally, we participated in several collaborative design activities, for example: brainstorming design contraints on sticky notes and clustering them into themes, which we then prioritized.
+Each CS faculty member had an separate copy of the workbook that we used to do each activity individually, allowing us to develop and articulate ideas on our own. We then synthesized our individual responses into a shared department workbook, engaging in a process of synthesis and deliberation through co-writing and co-editing. Additionally, we participated in several collaborative design activities, for example: brainstorming structural contraints on sticky notes and clustering them into themes, which we then prioritized into a set of design principles.
 
 By the end of the workshop, we had identified several key goals that would require curricular revision to achieve, such as:
 
