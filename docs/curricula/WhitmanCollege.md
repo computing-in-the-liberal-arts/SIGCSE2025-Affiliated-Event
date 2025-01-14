@@ -55,7 +55,7 @@ Each CS faculty member had an separate copy of the workbook that we used to do e
 By the end of the workshop, we had identified several key goals that would require curricular revision to achieve, such as:
 
 * Redesign some core courses to require _no_ prerequisites in order to broaden entry points into the major, and increase points of engagement for nonmajors and opportunities for in-class discussions of social and ethical topics.
-* Reduce the number of required courses to enable more opportunity for student choice in electives.
+* Reduce the number of non-elective requirements to enable more opportunity for student choice in electives.
 * Intentionally develop students' abilities to acquire skills progressively and independently to prepare them for capstone and lifelong learning after graduation.
 
 During the fall semester, we met roughly weekly to work through the details of a revised curriculum, 
@@ -90,7 +90,7 @@ Rather than adopting our curriculum, we recommend using the process laid out in 
 Our process benefited from two facilitators external to our department: 
 for the summer workshop, a Workbook co-author, 
 and for the fall working group, a Math colleague interested in curricular reform.
-We initially wanted an external facilitator so that faculty members could focus on the curriculum redesign activities rather than the mechanics of facilitation. Ultimately, we found that  having an outside perspective mitigated mitigated the dynamics of seniority and  catalyzed us to explain--and thus reconsider--our existing department norms. 
+We initially wanted an external facilitator so that faculty members could focus on the curriculum redesign activities rather than the mechanics of facilitation. Ultimately, we found that having an outside perspective mitigated the dynamics of seniority and catalyzed us to explain--and thus reconsider--our existing department norms. 
 
 The curricular revision process required a significant time investment from each of us:
 20 hours of summer workshop meetings, 10 hours of fall working group meetings, and about as many hours of individual work.
