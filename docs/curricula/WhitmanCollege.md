@@ -50,7 +50,7 @@ Guided by the Workbook and our facilitator, our discussions focused on these sev
    
 Step 0 was not part of the Workbook but required by our administration as a condition of funding an external facilitator. Yet we found this step to be crucial, and in fact have adopted processes established during the workshop into ongoing departmental decision-making, for example [fist-to-five consensus-building](https://web.archive.org/web/20150219150200/http://www.freechild.org/Firestarter/Fist2Five.htm).
 
-Each CS faculty member had an separate copy of the workbook that we used to do each activity individually, allowing us to develop and articulate ideas on our own. We then synthesized our individual responses into a shared department workbook, engaging in a process of  deliberation and negotiation through co-writing and co-editing. Additionally, we participated in several collaborative design activities, for example, brainstorming structural contraints on sticky notes and clustering them into themes, which we then prioritized into a set of design principles.
+Each CS faculty member had a separate copy of the workbook that we used to do each activity individually, allowing us to develop and articulate ideas on our own. We then synthesized our individual responses into a shared department workbook, engaging in a process of  deliberation and negotiation through co-writing and co-editing. Our facilitator helped us recognize when our collective response was "good enough" to move on to the next step. Additionally, we participated in several collaborative design activities, for example, brainstorming structural contraints on sticky notes and clustering them into themes, which we then prioritized into a set of design principles.
 
 By the end of the workshop, we had identified several key goals that would require curricular revision to achieve, such as:
 
@@ -95,7 +95,7 @@ We initially wanted an external facilitator so that faculty members could focus 
 The curricular revision process required a significant time investment from each of us:
 20 hours of summer workshop meetings, 10 hours of fall working group meetings, and about as many hours of individual work.
 
-We hesitated to make weighty decisions about our curriculum while one of our tenure lines remains unfilled.
+We hesitated to make weighty decisions about our curriculum while one of our five tenure lines remains unfilled.
 However, we believe that our revised curriculum will let all current faculty contribute to most (if not all) required courses,
 while also making more space for each of us to contribute our unique expertise.
 We are hopeful that our revised curriculum will accommate new colleagues with minimal adaptations.
