@@ -17,9 +17,9 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - Registration Link TBA
   - This event will be held in person. Attendees must register for the SIGCSE Technical Symposium and register for the pre-conference event as part of that.
 - [Detailed Event Agenda](eventAgenda.md)
-    - The detailed agenda is TBD.
+    - The detailed agenda has been posted.
 - [Resulting Materials](materials.md)
-  - Submissions, presentations, and session notes from the event.
+  - Submissions, presentations, and session notes from the event. (Updated during and after the event.)
 - [SIGCSE 2025](https://sigcse2025.sigcse.org)
 
 ## Important Dates
