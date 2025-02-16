@@ -6,7 +6,7 @@ An affiliated event at [SIGCSE 2025](https://sigcse2025.sigcse.org) organized by
 
 - Wednesday, February 26th, 2025, 9:00am - 5:00pm
 - [David L. Lawrence Convention Center (DLCC)](https://www.pittsburghcc.com/) in Pittsburgh, Pennsylvania.
-- Rooms TBD
+- Meeting Rooms 302-303
 
 | Time        | Activity|
 |-------------|----------|
@@ -42,11 +42,11 @@ Event organizers will collect links to content created in each session and add t
 
   - **Re-envisioning the Computer Science Major at Whitman College**
     William Bares, Janet Davis, John Stratton, Jordan Wirfs-Brock; Whitman College
-    <add link to submission>
+    - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/curricula/WhitmanCollege.md)
 
   - **Designing an Interdisciplinary Data Science Minor**
     John Ladd, Rebecca Rapp; Washington & Jefferson College
-    <add link to submission>
+    - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/curricula/washjeff_CurricularInnovationSubmission.md)
 
 * **Break** (10:10 AM - 10:30 AM)
 
@@ -54,11 +54,12 @@ Event organizers will collect links to content created in each session and add t
 
   - **From Java to Python: Revamping CS2 for a Cohesive Curriculum**
     Proyash Podder, Hamed Yaghoobian; Muhlenberg College
-    <add link to submission>
+    - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/curricula/muhlenberg_cs2-java-to-python.md)
 
   - **But \*How\* Do They Use It? Scaffolding the Introduction of Generative AI Across the SLAC Curriculum**
     Carolyn Jane Anderson; Wellesley College, Molly Q Feldman, Oberlin College
-    <add link to submission>
+    - [Submission (Doc)](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/opportunities/anderson-feldman/anderson-feldman-but-how.docx)
+    - [Submission (Graphic)](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/opportunities/anderson-feldman/anderson-feldman-but-how-figure.pdf)
 
 * **Breakout Discussions** (11:15 AM - 11:45 PM)
 
@@ -82,6 +83,8 @@ Event organizers will collect links to content created in each session and add t
 * **Selection of Unconference Sessions** (2:00 PM - 2:30 PM)
 
   ​	Unconference session sponsors will briefly present their proposed topic including the desired outcomes or products from their session and plans for organizing the discussion or collaborative work. Participants will select groups to join for the afternoon.
+
+  - Submitted session: [Bucknell](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/unconference/bucknell-session.md)
 
 * **Unconference Sessions** (2:30 PM - 4:30 PM)
 
