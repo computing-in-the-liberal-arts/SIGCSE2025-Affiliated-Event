@@ -4,7 +4,7 @@ This page contains links to materials from the [SIGCSE 2025 Affiliated event](ht
 
 ## Submitted Materials
 
-  * Conference Event Slides can be found here.
+  * Conference Event Slides can be found [here](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/materials/SIGCSE25-LibArts-Event-Slides.pdf).
   * **Re-envisioning the Computer Science Major at Whitman College**
     William Bares, Janet Davis, John Stratton, Jordan Wirfs-Brock; Whitman College
     - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/curricula/WhitmanCollege.md)

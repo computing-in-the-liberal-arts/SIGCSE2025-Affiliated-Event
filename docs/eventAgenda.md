@@ -30,7 +30,7 @@ Event organizers will collect links to content created in each session and add t
 
 * **Morning Session: Innovations, Opportunities, and Challenges** (9:00 AM - 12:15 PM)
 
-  * *If you would like to follow along, the event slides can be found here.*
+  * *If you would like to follow along, the event slides can be found [here](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/materials/SIGCSE25-LibArts-Event-Slides.pdf).*
 
 * **Welcome and Preview of Day's Events** (9:00 AM - 9:15 AM)
 
