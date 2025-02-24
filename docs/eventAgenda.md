@@ -30,6 +30,8 @@ Event organizers will collect links to content created in each session and add t
 
 * **Morning Session: Innovations, Opportunities, and Challenges** (9:00 AM - 12:15 PM)
 
+  * *If you would like to follow along, the event slides can be found here.*
+
 * **Welcome and Preview of Day's Events** (9:00 AM - 9:15 AM)
 
   ​	The Committee on Computing Education in Liberal Arts Colleges will discuss some of its recent projects including its planned BoF sessions during the Technical Symposium. We will review the day's events including a discussion of possible unconference topics for the afternoon session.

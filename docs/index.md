@@ -14,7 +14,7 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - [Event Proposal](2025-event-proposal.pdf)
 - [Call for Participation](2025CallForParticipation.md)
     - Submissions are invited on effective innovations in liberal arts computing curricula and on explorations of unique opportunities or challenges faced by the liberal arts computing education community. Details about submissions requirements and process are available in the Call for Participation.
-- Registration Link TBA
+- Registration via the SIGCSE Conference registration.
   - This event will be held in person. Attendees must register for the SIGCSE Technical Symposium and register for the pre-conference event as part of that.
 - [Detailed Event Agenda](eventAgenda.md)
     - The detailed agenda has been posted.
@@ -34,11 +34,11 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 
 - Amanda Holland-Minkley, Washington & Jefferson College
 - Andrea Tartaro, Furman University
-- Jakob Barnard, University of Jamestown
+- Jakob E. Barnard, University of Jamestown
 
 ## Program Committee
 
-- Jakob Barnard, University of Jamestown
+- Jakob E. Barnard, University of Jamestown
 - Grant Braught, Dickinson College
 - Janet Davis, Whitman College
 - Matthew Ferland, Dickinson College
