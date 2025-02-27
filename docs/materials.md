@@ -14,7 +14,8 @@ This page contains links to materials from the [SIGCSE 2025 Affiliated event](ht
 * **From Java to Python: Revamping CS2 for a Cohesive Curriculum**
   Proyash Podder, Hamed Yaghoobian; Muhlenberg College
   - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/curricula/muhlenberg_cs2-java-to-python.md)
-* **But \*How\* Do They Use It? Scaffolding the Introduction of Generative AI Across the SLAC Curriculum**
+  - [Session Slides](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/materials/revamping-SIGCSE2025.pdf)
+* **But How Do They Use It? Scaffolding the Introduction of Generative AI Across the SLAC Curriculum**
   Carolyn Jane Anderson; Wellesley College, Molly Q Feldman, Oberlin College
   - [Submission (Doc)](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/opportunities/anderson-feldman/anderson-feldman-but-how.docx)
   - [Submission (Graphic)](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/opportunities/anderson-feldman/anderson-feldman-but-how-figure.pdf)
@@ -25,7 +26,8 @@ This page contains links to materials from the [SIGCSE 2025 Affiliated event](ht
 
 ## Session Notes
 
-  * Available following the event.
+  * Unconference session on [hiring notes](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/materials/hiring-sigcse-2025.pdf).
+  * Others will be posted when submitted.
 
 
 ___
