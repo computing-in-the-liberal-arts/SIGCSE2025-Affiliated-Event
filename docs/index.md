@@ -2,6 +2,10 @@
 
 A [SIGCSE 2025](https://sigcse2025.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
 
+- Related Birds of a Feather Sessions from SIGCSE 2025:
+  - BoF: Computing Education in Liberal Arts Colleges ([BoF-Libarts Resulting Notes](bof-libarts.md))
+  - BoF: Towards a Computer Science Curriculum "Microkernel" ([BoF-Microkernel Notes](bof-microkernel.md))
+
 This event builds on directions and priorities identified at our prior SIGCSE events:
 - [SIGCSE 2020 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/)
 - [SIGCSE 2021 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/)
