@@ -11,6 +11,7 @@ This page contains links to materials from the [SIGCSE 2025 Affiliated event](ht
 * **Designing an Interdisciplinary Data Science Minor**
   John Ladd, Rebecca Rapp; Washington & Jefferson College
   - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/curricula/washjeff_CurricularInnovationSubmission.md)
+  - [Session Slides](https://jrladd.com/slides/sigcse2025#/title-slide)
 * **From Java to Python: Revamping CS2 for a Cohesive Curriculum**
   Proyash Podder, Hamed Yaghoobian; Muhlenberg College
   - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/curricula/muhlenberg_cs2-java-to-python.md)
@@ -27,6 +28,7 @@ This page contains links to materials from the [SIGCSE 2025 Affiliated event](ht
 ## Session Notes
 
   * Unconference session on [hiring notes](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/materials/hiring-sigcse-2025.pdf).
+  * Unconference session on [Microkernel](https://docs.google.com/document/d/1YJno-N9pNXl41lAqy6jEIL9b_4_nEYujDwqVZDYJavA/edit?tab=t.0#heading=h.uc06s9jw5z2a).
   * Others will be posted when submitted.
 
 
